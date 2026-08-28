@@ -26,14 +26,14 @@ The chatbot does not on use Artificial Intelligence or Machine Learning. It foll
 python main.py
 5. Enter your message and interact with the chatbot.
 For Example:
-You: hi
-Bot: hi, nice to meet you
-You: how are you
-Bot: i am fine , thanks! How are you?
-You: fine
-Bot: That's great
-You: bye
-Bot: Goodbye!
+-You: hi
+-Bot: hi, nice to meet you
+-You: how are you
+-Bot: i am fine , thanks! How are you?
+-You: fine
+-Bot: That's great
+-You: bye
+-Bot: Goodbye!
 # Learning Objectives
 This project helps beginners understand:
 - Taking input from user.
