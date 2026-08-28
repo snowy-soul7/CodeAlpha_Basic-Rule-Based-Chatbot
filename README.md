@@ -42,9 +42,6 @@ This project helps beginners understand:
 - Loops
 - Basic string handling
 - Creating a simple rule-based program
-  
-  
-- 
       
 
  
