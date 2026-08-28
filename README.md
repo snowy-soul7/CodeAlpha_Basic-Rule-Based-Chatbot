@@ -23,16 +23,17 @@ The chatbot does not on use Artificial Intelligence or Machine Learning. It foll
 2. Download or clone this repository.
 3. Open the folder in VS Code or any Python-supported editor.
 4. Run the following command:
-    python main.py
+python main.py
 5. Enter your message and interact with the chatbot.
-For Example: You: hi
-             Bot: hi, nice to meet you
-             You: how are you
-             Bot: i am fine , thanks! How are you?
-             You: fine
-             Bot: That's great
-             You: bye
-             Bot: Goodbye!
+For Example:
+You: hi
+Bot: hi, nice to meet you
+You: how are you
+Bot: i am fine , thanks! How are you?
+You: fine
+Bot: That's great
+You: bye
+Bot: Goodbye!
 # Learning Objectives
 This project helps beginners understand:
 - Taking input from user.
