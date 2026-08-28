@@ -9,7 +9,7 @@ The chatbot does not on use Artificial Intelligence or Machine Learning. It foll
 - Responds to simple replies such as- Fine, Good, Great.
 - Can tell its name to the user.
 - Responds to goodbye messages such as- Bye, Byee, Goodbye, See you.
-- Handles unknown inputs with a default reponse.
+- Handles unknown inputs with a default response.
 # Key Concepts
 - Python
 - input() and print()
